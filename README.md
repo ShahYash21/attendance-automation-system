@@ -162,5 +162,4 @@ The generated Excel report contains:
 **Yash Shah**
 
 GitHub: https://github.com/ShahYash21
-
-LinkedIn: Add your LinkedIn profile link here.
+Linkedin:https://www.linkedin.com/in/yash-shah-796093285
